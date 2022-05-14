@@ -8,9 +8,9 @@ I’m looking to collaborate on artificial intelligence projects, data analytic 
 
 How to reach me ... 
 
-https://www.linkedin.com/in/brad-mcglynn/
+https://www.linkedin.com/in/bradley-mcglynn/
 
-bradleymcglynn@gmail.com
+bmcglyn4@uwo.ca
 <!---
 bradmcglynn/bradmcglynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
