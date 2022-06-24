@@ -6,6 +6,8 @@ I’m currently learning machine learning & AI fundamentals, utilizing Python to
 
 I’m looking to collaborate on artificial intelligence projects, data analytic projects, or sports analytic projects
 
+Current work GitHub account: https://github.com/brad-mcglynn
+
 How to reach me ... 
 
 https://www.linkedin.com/in/bradley-mcglynn/
